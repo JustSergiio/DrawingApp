@@ -2,7 +2,7 @@
 
 Simple but usefull application
 
-```
+``` javascript
 
 var canvas;
 var context;
