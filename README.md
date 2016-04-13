@@ -2,7 +2,7 @@
 
 Simple but usefull application
 
-''''
+""
 
 var canvas;
 var context;
@@ -492,5 +492,5 @@ function redraw()
 
 
 
-''''
+""
 
